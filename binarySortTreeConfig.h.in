@@ -1,0 +1,3 @@
+#define myLibrary_VERSION_MAJOR @myLibrary_VERSION_MAJOR@
+#define myLibrary_VERSION_MINOR @myLibrary_VERSION_MINOR@
+#define myLibrary_VERSION_PATH @myLibrary_VERSION_PATCH@
